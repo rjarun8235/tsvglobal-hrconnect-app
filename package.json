@@ -51,8 +51,8 @@
     "framer-motion": "^11.3.9",
     "html-to-image": "^1.11.11",
     "input-otp": "^1.2.4",
-    "jspdf": "^2.5.1",
-    "jspdf-autotable": "^3.5.31",
+    "jspdf": "^4.2.1",
+    "jspdf-autotable": "^5.0.8",
     "lucide-react": "^0.417.0",
     "next-themes": "^0.3.0",
     "react": "^18.2.0",
@@ -62,7 +62,7 @@
     "react-hook-form": "^7.52.0",
     "react-image-crop": "^10.1.8",
     "react-resizable-panels": "^2.0.19",
-    "react-router-dom": "^6.23.1",
+    "react-router-dom": "^7.18.4",
     "recharts": "^2.12.7",
     "sonner": "^1.5.0",
     "tailwind-merge": "^2.2.1",
@@ -73,14 +73,14 @@
   "devDependencies": {
     "@types/react": "^18.2.56",
     "@types/react-dom": "^18.2.19",
-    "@vitejs/plugin-react": "^4.2.1",
+    "@vitejs/plugin-react": "^4.7.0",
     "autoprefixer": "^10.4.19",
     "eslint": "^8.56.0",
     "eslint-plugin-react": "^7.33.2",
     "eslint-plugin-react-hooks": "^4.6.0",
     "eslint-plugin-react-refresh": "^0.4.5",
-    "postcss": "^8.4.38",
-    "tailwindcss": "^3.4.4",
-    "vite": "^5.1.4"
+    "postcss": "^8.5.30",
+    "tailwindcss": "^4.3.3",
+    "vite": "^8.3.4"
   }
 }
